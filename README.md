@@ -21,7 +21,7 @@
 
 1. คัดลอก repository:
    ```bash
-   git clone https://github.com/yourusername/Short-Video-Control
+   git clone https://github.com/NiabKungg/Short-Video-Control
    cd Short-Video-Control
    ```
 
