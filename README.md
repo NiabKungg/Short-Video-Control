@@ -17,12 +17,6 @@
 - PyAutoGUI (`pyautogui`)
 - Numpy (`numpy`)
 
-คุณสามารถติดตั้งแพ็กเกจเหล่านี้ได้โดยใช้คำสั่งต่อไปนี้:
-
-```bash
-pip install opencv-python mediapipe pyautogui numpy
-```
-
 ## การตั้งค่าและการใช้งาน
 
 1. คัดลอก repository:
