@@ -32,7 +32,7 @@
 
 3. ดาวน์โหลดโมเดลการตรวจจับมือ:
    ```bash
-   wget -q https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task
+   curl -O https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task
    ```
    ให้แน่ใจว่าคุณมีไฟล์ `hand_landmarker.task` ในไดเรกทอรีทำงานของคุณ
    
